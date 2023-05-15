@@ -1,1 +1,1 @@
-# Basic colendar app in Java.
+Basic colendar app in Java.
